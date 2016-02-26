@@ -24,7 +24,7 @@ Usage
 
 Quick Start
 -----------
-First, install the libraries and set a default account:
+Once you have installed the libraries you are ready to go.
 
 .. code-block:: sh
 
