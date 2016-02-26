@@ -32,5 +32,5 @@ First, install the libraries and set a default account:
 
 .. code-block:: sh
 
-    $ ./tscli.py -h
+    $ ./xipescan.py -h
 
